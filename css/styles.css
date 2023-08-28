@@ -579,6 +579,10 @@ img {
   align-items: baseline;
 }
 
+.footer-social-container {
+  margin-right: 80px;
+}
+
 .footer-logo-container {
   margin-right: 120px;
 }
@@ -695,7 +699,7 @@ img {
 
 .subscribe-icon {
   fill: var(--white);
-  margin-left: 16px;
+  
 }
 
 /* MODAL SECTION */
@@ -947,3 +951,4 @@ img {
   background-color: var(--ocean);
   border: none;
 }
+
